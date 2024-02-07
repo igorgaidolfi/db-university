@@ -7,3 +7,7 @@ BONUS:
 Selezionare nome, descrizione e periodo di tutti i corsi che hanno sito web diverso da null, cfu compresi tra 9 e 12 e che sono del primo anno ed ordinarli in ordine decrescente
 P.S. Ad ogni query fatta corrisponde un push.
 Buon lavoro.
+
+Queries 2
+Utilizzando lo stesso database di ieri, eseguite le query in allegato. Obbligatoriamente ne dovete fare 3 per il group by e tre per le JOIN.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
